@@ -13,6 +13,7 @@
   @property: width
   @desc: adds width of 5%
 */
+
 [mod-width~="5p"]{
   width: 5%;
 }
