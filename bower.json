@@ -1,0 +1,26 @@
+{
+  "name": "modulr-dimension",
+  "homepage": "https://github.com/ModulrCSS/dimension",
+  "authors": [
+    "uloga <wpnemesis@gmail.com>"
+  ],
+  "description": "Modulr.css Dimension Module (height and width)",
+  "main": "",
+  "keywords": [
+    "dimension",
+    "modulr",
+    "layout",
+    "html5",
+    "css",
+    "width",
+    "height"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

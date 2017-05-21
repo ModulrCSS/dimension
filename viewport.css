@@ -1,0 +1,825 @@
+/* extra large size */
+
+@media (min-width: 1920px){
+
+  /* -- screen-xl width -- */
+
+  [mod-if-screen-xl~="width-5p"]{
+    width: 5%;
+  }
+  [mod-if-screen-xl~="width-10p"]{
+    width: 10%;
+  }
+  [mod-if-screen-xl~="width-15p"]{
+    width: 15%;
+  }
+  [mod-if-screen-xl~="width-20p"]{
+    width: 20%;
+  }
+  [mod-if-screen-xl~="width-25p"]{
+    width: 25%;
+  }
+  [mod-if-screen-xl~="width-30p"]{
+    width: 30%;
+  }
+  [mod-if-screen-xl~="width-35p"]{
+    width: 35%;
+  }
+  [mod-if-screen-xl~="width-40p"]{
+    width: 40%;
+  }
+  [mod-if-screen-xl~="width-45p"]{
+    width: 45%;
+  }
+  [mod-if-screen-xl~="width-50p"]{
+    width: 50%;
+  }
+  [mod-if-screen-xl~="width-55p"]{
+    width: 55%;
+  }
+  [mod-if-screen-xl~="width-60p"]{
+    width: 60%;
+  }
+  [mod-if-screen-xl~="width-65p"]{
+    width: 65%;
+  }
+  [mod-if-screen-xl~="width-70p"]{
+    width: 70%;
+  }
+  [mod-if-screen-xl~="width-75p"]{
+    width: 75%;
+  }
+  [mod-if-screen-xl~="width-80p"]{
+    width: 80%;
+  }
+  [mod-if-screen-xl~="width-85p"]{
+    width: 85%;
+  }
+  [mod-if-screen-xl~="width-90p"]{
+    width: 90%;
+  }
+  [mod-if-screen-xl~="width-95p"]{
+    width: 95%;
+  }
+  [mod-if-screen-xl~="width-100p"]{
+    width: 100%;
+  }
+  [mod-if-screen-xl~="width-auto"]{
+    width: auto;
+  }
+
+  /* -- screen-xl height -- */
+
+  [mod-if-screen-xl~="height-5p"]{
+    height: 5%;
+  }
+  [mod-if-screen-xl~="height-10p"]{
+    height: 10%;
+  }
+  [mod-if-screen-xl~="height-15p"]{
+    height: 15%;
+  }
+  [mod-if-screen-xl~="height-20p"]{
+    height: 20%;
+  }
+  [mod-if-screen-xl~="height-25p"]{
+    height: 25%;
+  }
+  [mod-if-screen-xl~="height-30p"]{
+    height: 30%;
+  }
+  [mod-if-screen-xl~="height-35p"]{
+    height: 35%;
+  }
+  [mod-if-screen-xl~="height-40p"]{
+    height: 40%;
+  }
+  [mod-if-screen-xl~="height-45p"]{
+    height: 45%;
+  }
+  [mod-if-screen-xl~="height-50p"]{
+    height: 50%;
+  }
+  [mod-if-screen-xl~="height-55p"]{
+    height: 55%;
+  }
+  [mod-if-screen-xl~="height-60p"]{
+    height: 60%;
+  }
+  [mod-if-screen-xl~="height-65p"]{
+    height: 65%;
+  }
+  [mod-if-screen-xl~="height-70p"]{
+    height: 70%;
+  }
+  [mod-if-screen-xl~="height-75p"]{
+    height: 75%;
+  }
+  [mod-if-screen-xl~="height-80p"]{
+    height: 80%;
+  }
+  [mod-if-screen-xl~="height-85p"]{
+    height: 85%;
+  }
+  [mod-if-screen-xl~="height-90p"]{
+    height: 90%;
+  }
+  [mod-if-screen-xl~="height-95p"]{
+    height: 95%;
+  }
+  [mod-if-screen-xl~="height-100p"]{
+    height: 100%;
+  }
+  [mod-if-screen-xl~="height-auto"]{
+    height: auto;
+  }
+}
+
+/* large size */
+
+@media (max-width: 1920px){
+
+   /* -- screen-lg width -- */
+
+  [mod-if-screen-lg~="width-5p"]{
+    width: 5%;
+  }
+  [mod-if-screen-lg~="width-10p"]{
+    width: 10%;
+  }
+  [mod-if-screen-lg~="width-15p"]{
+    width: 15%;
+  }
+  [mod-if-screen-lg~="width-20p"]{
+    width: 20%;
+  }
+  [mod-if-screen-lg~="width-25p"]{
+    width: 25%;
+  }
+  [mod-if-screen-lg~="width-30p"]{
+    width: 30%;
+  }
+  [mod-if-screen-lg~="width-35p"]{
+    width: 35%;
+  }
+  [mod-if-screen-lg~="width-40p"]{
+    width: 40%;
+  }
+  [mod-if-screen-lg~="width-45p"]{
+    width: 45%;
+  }
+  [mod-if-screen-lg~="width-50p"]{
+    width: 50%;
+  }
+  [mod-if-screen-lg~="width-55p"]{
+    width: 55%;
+  }
+  [mod-if-screen-lg~="width-60p"]{
+    width: 60%;
+  }
+  [mod-if-screen-lg~="width-65p"]{
+    width: 65%;
+  }
+  [mod-if-screen-lg~="width-70p"]{
+    width: 70%;
+  }
+  [mod-if-screen-lg~="width-75p"]{
+    width: 75%;
+  }
+  [mod-if-screen-lg~="width-80p"]{
+    width: 80%;
+  }
+  [mod-if-screen-lg~="width-85p"]{
+    width: 85%;
+  }
+  [mod-if-screen-lg~="width-90p"]{
+    width: 90%;
+  }
+  [mod-if-screen-lg~="width-95p"]{
+    width: 95%;
+  }
+  [mod-if-screen-lg~="width-100p"]{
+    width: 100%;
+  }
+  [mod-if-screen-lg~="width-auto"]{
+    width: auto;
+  }
+
+  /* -- screen-lg height -- */
+
+  [mod-if-screen-lg~="height-5p"]{
+    height: 5%;
+  }
+  [mod-if-screen-lg~="height-10p"]{
+    height: 10%;
+  }
+  [mod-if-screen-lg~="height-15p"]{
+    height: 15%;
+  }
+  [mod-if-screen-lg~="height-20p"]{
+    height: 20%;
+  }
+  [mod-if-screen-lg~="height-25p"]{
+    height: 25%;
+  }
+  [mod-if-screen-lg~="height-30p"]{
+    height: 30%;
+  }
+  [mod-if-screen-lg~="height-35p"]{
+    height: 35%;
+  }
+  [mod-if-screen-lg~="height-40p"]{
+    height: 40%;
+  }
+  [mod-if-screen-lg~="height-45p"]{
+    height: 45%;
+  }
+  [mod-if-screen-lg~="height-50p"]{
+    height: 50%;
+  }
+  [mod-if-screen-lg~="height-55p"]{
+    height: 55%;
+  }
+  [mod-if-screen-lg~="height-60p"]{
+    height: 60%;
+  }
+  [mod-if-screen-lg~="height-65p"]{
+    height: 65%;
+  }
+  [mod-if-screen-lg~="height-70p"]{
+    height: 70%;
+  }
+  [mod-if-screen-lg~="height-75p"]{
+    height: 75%;
+  }
+  [mod-if-screen-lg~="height-80p"]{
+    height: 80%;
+  }
+  [mod-if-screen-lg~="height-85p"]{
+    height: 85%;
+  }
+  [mod-if-screen-lg~="height-90p"]{
+    height: 90%;
+  }
+  [mod-if-screen-lg~="height-95p"]{
+    height: 95%;
+  }
+  [mod-if-screen-lg~="height-100p"]{
+    height: 100%;
+  }
+  [mod-if-screen-lg~="height-auto"]{
+    height: auto;
+  }
+  
+}
+
+/* medium size */
+
+@media (max-width: 1280px){
+  
+   /* -- screen-md width -- */
+
+  [mod-if-screen-md~="width-5p"]{
+    width: 5%;
+  }
+  [mod-if-screen-md~="width-10p"]{
+    width: 10%;
+  }
+  [mod-if-screen-md~="width-15p"]{
+    width: 15%;
+  }
+  [mod-if-screen-md~="width-20p"]{
+    width: 20%;
+  }
+  [mod-if-screen-md~="width-25p"]{
+    width: 25%;
+  }
+  [mod-if-screen-md~="width-30p"]{
+    width: 30%;
+  }
+  [mod-if-screen-md~="width-35p"]{
+    width: 35%;
+  }
+  [mod-if-screen-md~="width-40p"]{
+    width: 40%;
+  }
+  [mod-if-screen-md~="width-45p"]{
+    width: 45%;
+  }
+  [mod-if-screen-md~="width-50p"]{
+    width: 50%;
+  }
+  [mod-if-screen-md~="width-55p"]{
+    width: 55%;
+  }
+  [mod-if-screen-md~="width-60p"]{
+    width: 60%;
+  }
+  [mod-if-screen-md~="width-65p"]{
+    width: 65%;
+  }
+  [mod-if-screen-md~="width-70p"]{
+    width: 70%;
+  }
+  [mod-if-screen-md~="width-75p"]{
+    width: 75%;
+  }
+  [mod-if-screen-md~="width-80p"]{
+    width: 80%;
+  }
+  [mod-if-screen-md~="width-85p"]{
+    width: 85%;
+  }
+  [mod-if-screen-md~="width-90p"]{
+    width: 90%;
+  }
+  [mod-if-screen-md~="width-95p"]{
+    width: 95%;
+  }
+  [mod-if-screen-md~="width-100p"]{
+    width: 100%;
+  }
+  [mod-if-screen-md~="width-auto"]{
+    width: auto;
+  }
+
+  /* -- screen-md height -- */
+
+  [mod-if-screen-md~="height-5p"]{
+    height: 5%;
+  }
+  [mod-if-screen-md~="height-10p"]{
+    height: 10%;
+  }
+  [mod-if-screen-md~="height-15p"]{
+    height: 15%;
+  }
+  [mod-if-screen-md~="height-20p"]{
+    height: 20%;
+  }
+  [mod-if-screen-md~="height-25p"]{
+    height: 25%;
+  }
+  [mod-if-screen-md~="height-30p"]{
+    height: 30%;
+  }
+  [mod-if-screen-md~="height-35p"]{
+    height: 35%;
+  }
+  [mod-if-screen-md~="height-40p"]{
+    height: 40%;
+  }
+  [mod-if-screen-md~="height-45p"]{
+    height: 45%;
+  }
+  [mod-if-screen-md~="height-50p"]{
+    height: 50%;
+  }
+  [mod-if-screen-md~="height-55p"]{
+    height: 55%;
+  }
+  [mod-if-screen-md~="height-60p"]{
+    height: 60%;
+  }
+  [mod-if-screen-md~="height-65p"]{
+    height: 65%;
+  }
+  [mod-if-screen-md~="height-70p"]{
+    height: 70%;
+  }
+  [mod-if-screen-md~="height-75p"]{
+    height: 75%;
+  }
+  [mod-if-screen-md~="height-80p"]{
+    height: 80%;
+  }
+  [mod-if-screen-md~="height-85p"]{
+    height: 85%;
+  }
+  [mod-if-screen-md~="height-90p"]{
+    height: 90%;
+  }
+  [mod-if-screen-md~="height-95p"]{
+    height: 95%;
+  }
+  [mod-if-screen-md~="height-100p"]{
+    height: 100%;
+  }
+  [mod-if-screen-md~="height-auto"]{
+    height: auto;
+  }
+
+}
+
+/* small size */
+
+@media (max-width: 960px){
+  
+   /* -- screen-sm width -- */
+
+  [mod-if-screen-sm~="width-5p"]{
+    width: 5%;
+  }
+  [mod-if-screen-sm~="width-10p"]{
+    width: 10%;
+  }
+  [mod-if-screen-sm~="width-15p"]{
+    width: 15%;
+  }
+  [mod-if-screen-sm~="width-20p"]{
+    width: 20%;
+  }
+  [mod-if-screen-sm~="width-25p"]{
+    width: 25%;
+  }
+  [mod-if-screen-sm~="width-30p"]{
+    width: 30%;
+  }
+  [mod-if-screen-sm~="width-35p"]{
+    width: 35%;
+  }
+  [mod-if-screen-sm~="width-40p"]{
+    width: 40%;
+  }
+  [mod-if-screen-sm~="width-45p"]{
+    width: 45%;
+  }
+  [mod-if-screen-sm~="width-50p"]{
+    width: 50%;
+  }
+  [mod-if-screen-sm~="width-55p"]{
+    width: 55%;
+  }
+  [mod-if-screen-sm~="width-60p"]{
+    width: 60%;
+  }
+  [mod-if-screen-sm~="width-65p"]{
+    width: 65%;
+  }
+  [mod-if-screen-sm~="width-70p"]{
+    width: 70%;
+  }
+  [mod-if-screen-sm~="width-75p"]{
+    width: 75%;
+  }
+  [mod-if-screen-sm~="width-80p"]{
+    width: 80%;
+  }
+  [mod-if-screen-sm~="width-85p"]{
+    width: 85%;
+  }
+  [mod-if-screen-sm~="width-90p"]{
+    width: 90%;
+  }
+  [mod-if-screen-sm~="width-95p"]{
+    width: 95%;
+  }
+  [mod-if-screen-sm~="width-100p"]{
+    width: 100%;
+  }
+  [mod-if-screen-sm~="width-auto"]{
+    width: auto;
+  }
+
+  /* -- screen-sm height -- */
+
+  [mod-if-screen-sm~="height-5p"]{
+    height: 5%;
+  }
+  [mod-if-screen-sm~="height-10p"]{
+    height: 10%;
+  }
+  [mod-if-screen-sm~="height-15p"]{
+    height: 15%;
+  }
+  [mod-if-screen-sm~="height-20p"]{
+    height: 20%;
+  }
+  [mod-if-screen-sm~="height-25p"]{
+    height: 25%;
+  }
+  [mod-if-screen-sm~="height-30p"]{
+    height: 30%;
+  }
+  [mod-if-screen-sm~="height-35p"]{
+    height: 35%;
+  }
+  [mod-if-screen-sm~="height-40p"]{
+    height: 40%;
+  }
+  [mod-if-screen-sm~="height-45p"]{
+    height: 45%;
+  }
+  [mod-if-screen-sm~="height-50p"]{
+    height: 50%;
+  }
+  [mod-if-screen-sm~="height-55p"]{
+    height: 55%;
+  }
+  [mod-if-screen-sm~="height-60p"]{
+    height: 60%;
+  }
+  [mod-if-screen-sm~="height-65p"]{
+    height: 65%;
+  }
+  [mod-if-screen-sm~="height-70p"]{
+    height: 70%;
+  }
+  [mod-if-screen-sm~="height-75p"]{
+    height: 75%;
+  }
+  [mod-if-screen-sm~="height-80p"]{
+    height: 80%;
+  }
+  [mod-if-screen-sm~="height-85p"]{
+    height: 85%;
+  }
+  [mod-if-screen-sm~="height-90p"]{
+    height: 90%;
+  }
+  [mod-if-screen-sm~="height-95p"]{
+    height: 95%;
+  }
+  [mod-if-screen-sm~="height-100p"]{
+    height: 100%;
+  }
+  [mod-if-screen-sm~="height-auto"]{
+    height: auto;
+  }
+}
+
+/* extra small xs */
+
+@media (max-width: 748px){
+
+  /* -- screen-xs width -- */
+
+  [mod-if-screen-xs~="width-5p"]{
+    width: 5%;
+  }
+  [mod-if-screen-xs~="width-10p"]{
+    width: 10%;
+  }
+  [mod-if-screen-xs~="width-15p"]{
+    width: 15%;
+  }
+  [mod-if-screen-xs~="width-20p"]{
+    width: 20%;
+  }
+  [mod-if-screen-xs~="width-25p"]{
+    width: 25%;
+  }
+  [mod-if-screen-xs~="width-30p"]{
+    width: 30%;
+  }
+  [mod-if-screen-xs~="width-35p"]{
+    width: 35%;
+  }
+  [mod-if-screen-xs~="width-40p"]{
+    width: 40%;
+  }
+  [mod-if-screen-xs~="width-45p"]{
+    width: 45%;
+  }
+  [mod-if-screen-xs~="width-50p"]{
+    width: 50%;
+  }
+  [mod-if-screen-xs~="width-55p"]{
+    width: 55%;
+  }
+  [mod-if-screen-xs~="width-60p"]{
+    width: 60%;
+  }
+  [mod-if-screen-xs~="width-65p"]{
+    width: 65%;
+  }
+  [mod-if-screen-xs~="width-70p"]{
+    width: 70%;
+  }
+  [mod-if-screen-xs~="width-75p"]{
+    width: 75%;
+  }
+  [mod-if-screen-xs~="width-80p"]{
+    width: 80%;
+  }
+  [mod-if-screen-xs~="width-85p"]{
+    width: 85%;
+  }
+  [mod-if-screen-xs~="width-90p"]{
+    width: 90%;
+  }
+  [mod-if-screen-xs~="width-95p"]{
+    width: 95%;
+  }
+  [mod-if-screen-xs~="width-100p"]{
+    width: 100%;
+  }
+  [mod-if-screen-xs~="width-auto"]{
+    width: auto;
+  }
+
+  /* -- screen-xs height -- */
+
+  [mod-if-screen-xs~="height-5p"]{
+    height: 5%;
+  }
+  [mod-if-screen-xs~="height-10p"]{
+    height: 10%;
+  }
+  [mod-if-screen-xs~="height-15p"]{
+    height: 15%;
+  }
+  [mod-if-screen-xs~="height-20p"]{
+    height: 20%;
+  }
+  [mod-if-screen-xs~="height-25p"]{
+    height: 25%;
+  }
+  [mod-if-screen-xs~="height-30p"]{
+    height: 30%;
+  }
+  [mod-if-screen-xs~="height-35p"]{
+    height: 35%;
+  }
+  [mod-if-screen-xs~="height-40p"]{
+    height: 40%;
+  }
+  [mod-if-screen-xs~="height-45p"]{
+    height: 45%;
+  }
+  [mod-if-screen-xs~="height-50p"]{
+    height: 50%;
+  }
+  [mod-if-screen-xs~="height-55p"]{
+    height: 55%;
+  }
+  [mod-if-screen-xs~="height-60p"]{
+    height: 60%;
+  }
+  [mod-if-screen-xs~="height-65p"]{
+    height: 65%;
+  }
+  [mod-if-screen-xs~="height-70p"]{
+    height: 70%;
+  }
+  [mod-if-screen-xs~="height-75p"]{
+    height: 75%;
+  }
+  [mod-if-screen-xs~="height-80p"]{
+    height: 80%;
+  }
+  [mod-if-screen-xs~="height-85p"]{
+    height: 85%;
+  }
+  [mod-if-screen-xs~="height-90p"]{
+    height: 90%;
+  }
+  [mod-if-screen-xs~="height-95p"]{
+    height: 95%;
+  }
+  [mod-if-screen-xs~="height-100p"]{
+    height: 100%;
+  }
+  [mod-if-screen-xs~="height-auto"]{
+    height: auto;
+  }
+
+}
+
+/* extra extra small */
+
+@media (max-width: 480px){
+  
+   /* -- screen-xxs width -- */
+
+  [mod-if-screen-xxs~="width-5p"]{
+    width: 5%;
+  }
+  [mod-if-screen-xxs~="width-10p"]{
+    width: 10%;
+  }
+  [mod-if-screen-xxs~="width-15p"]{
+    width: 15%;
+  }
+  [mod-if-screen-xxs~="width-20p"]{
+    width: 20%;
+  }
+  [mod-if-screen-xxs~="width-25p"]{
+    width: 25%;
+  }
+  [mod-if-screen-xxs~="width-30p"]{
+    width: 30%;
+  }
+  [mod-if-screen-xxs~="width-35p"]{
+    width: 35%;
+  }
+  [mod-if-screen-xxs~="width-40p"]{
+    width: 40%;
+  }
+  [mod-if-screen-xxs~="width-45p"]{
+    width: 45%;
+  }
+  [mod-if-screen-xxs~="width-50p"]{
+    width: 50%;
+  }
+  [mod-if-screen-xxs~="width-55p"]{
+    width: 55%;
+  }
+  [mod-if-screen-xxs~="width-60p"]{
+    width: 60%;
+  }
+  [mod-if-screen-xxs~="width-65p"]{
+    width: 65%;
+  }
+  [mod-if-screen-xxs~="width-70p"]{
+    width: 70%;
+  }
+  [mod-if-screen-xxs~="width-75p"]{
+    width: 75%;
+  }
+  [mod-if-screen-xxs~="width-80p"]{
+    width: 80%;
+  }
+  [mod-if-screen-xxs~="width-85p"]{
+    width: 85%;
+  }
+  [mod-if-screen-xxs~="width-90p"]{
+    width: 90%;
+  }
+  [mod-if-screen-xxs~="width-95p"]{
+    width: 95%;
+  }
+  [mod-if-screen-xxs~="width-100p"]{
+    width: 100%;
+  }
+  [mod-if-screen-xxs~="width-auto"]{
+    width: auto;
+  }
+
+  /* -- screen-xxs height -- */
+
+  [mod-if-screen-xxs~="height-5p"]{
+    height: 5%;
+  }
+  [mod-if-screen-xxs~="height-10p"]{
+    height: 10%;
+  }
+  [mod-if-screen-xxs~="height-15p"]{
+    height: 15%;
+  }
+  [mod-if-screen-xxs~="height-20p"]{
+    height: 20%;
+  }
+  [mod-if-screen-xxs~="height-25p"]{
+    height: 25%;
+  }
+  [mod-if-screen-xxs~="height-30p"]{
+    height: 30%;
+  }
+  [mod-if-screen-xxs~="height-35p"]{
+    height: 35%;
+  }
+  [mod-if-screen-xxs~="height-40p"]{
+    height: 40%;
+  }
+  [mod-if-screen-xxs~="height-45p"]{
+    height: 45%;
+  }
+  [mod-if-screen-xxs~="height-50p"]{
+    height: 50%;
+  }
+  [mod-if-screen-xxs~="height-55p"]{
+    height: 55%;
+  }
+  [mod-if-screen-xxs~="height-60p"]{
+    height: 60%;
+  }
+  [mod-if-screen-xxs~="height-65p"]{
+    height: 65%;
+  }
+  [mod-if-screen-xxs~="height-70p"]{
+    height: 70%;
+  }
+  [mod-if-screen-xxs~="height-75p"]{
+    height: 75%;
+  }
+  [mod-if-screen-xxs~="height-80p"]{
+    height: 80%;
+  }
+  [mod-if-screen-xxs~="height-85p"]{
+    height: 85%;
+  }
+  [mod-if-screen-xxs~="height-90p"]{
+    height: 90%;
+  }
+  [mod-if-screen-xxs~="height-95p"]{
+    height: 95%;
+  }
+  [mod-if-screen-xxs~="height-100p"]{
+    height: 100%;
+  }
+  [mod-if-screen-xxs~="height-auto"]{
+    height: auto;
+  }
+
+}

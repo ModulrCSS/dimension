@@ -1,0 +1,390 @@
+/*
+  @about Modulr.css
+  -----------------------------------------
+  @desc: Pure Css Dimension Module
+  @author: Alan Museljic
+  @git: https://github.com/ModulrCSS/dimension
+  @source: http://www.getmodulr.com/css/dimension
+  ------------------------------------------------
+  @uses: modulr/dimension/*
+\-------------------------------------------------*/
+
+/* 
+  @property: width
+  @desc: adds width of 5%
+*/
+[mod-width~="5p"]{
+  width: 5%;
+}
+
+/* 
+  @property: width
+  @desc: adds width of 10%
+*/
+
+[mod-width~="10p"]{
+  width: 10%;
+}
+
+/* 
+  @property: width
+  @desc: adds width of 15%
+*/
+
+[mod-width~="15p"]{
+  width: 15%;
+}
+
+/* 
+  @property: width
+  @desc: adds width of 20%
+*/
+
+[mod-width~="20p"]{
+  width: 20%;
+}
+
+/* 
+  @property: width
+  @desc: adds width of 25%
+*/
+
+[mod-width~="25p"]{
+  width: 25%;
+}
+
+/* 
+  @property: width
+  @desc: adds width of 30%
+*/
+
+[mod-width~="30p"]{
+  width: 30%;
+}
+
+/* 
+  @property: width
+  @desc: adds width of 35%
+*/
+
+[mod-width~="35p"]{
+  width: 35%;
+}
+
+/* 
+  @property: width
+  @desc: adds width of 40%
+*/
+
+[mod-width~="40p"]{
+  width: 40%;
+}
+
+/* 
+  @property: width
+  @desc: adds width of 45%
+*/
+
+[mod-width~="45p"]{
+  width: 45%;
+}
+
+/* 
+  @property: width
+  @desc: adds width of 50%
+*/
+
+[mod-width~="50p"]{
+  width: 50%;
+}
+
+/* 
+  @property: width
+  @desc: adds width of 55%
+*/
+
+[mod-width~="55p"]{
+  width: 55%;
+}
+
+/* 
+  @property: width
+  @desc: adds width of 60%
+*/
+
+[mod-width~="60p"]{
+  width: 60%;
+}
+
+/* 
+  @property: width
+  @desc: adds width of 65%
+*/
+
+[mod-width~="65p"]{
+  width: 65%;
+}
+
+/* 
+  @property: width
+  @desc: adds width of 70%
+*/
+
+[mod-width~="70p"]{
+  width: 70%;
+}
+
+/* 
+  @property: width
+  @desc: adds width of 75%
+*/
+
+[mod-width~="75p"]{
+  width: 75%;
+}
+
+/* 
+  @property: width
+  @desc: adds width of 80%
+*/
+
+[mod-width~="80p"]{
+  width: 80%;
+}
+
+/* 
+  @property: width
+  @desc: adds width of 85%
+*/
+
+[mod-width~="85p"]{
+  width: 85%;
+}
+
+/* 
+  @property: width
+  @desc: adds width of 90%
+*/
+
+[mod-width~="90p"]{
+  width: 90%;
+}
+
+/* 
+  @property: width
+  @desc: adds width of 95%
+*/
+
+[mod-width~="95p"]{
+  width: 95%;
+}
+
+/* 
+  @property: width
+  @desc: adds width of 100%
+*/
+
+[mod-width~="100p"]{
+  width: 100%;
+}
+
+/* 
+  @property: width
+  @desc: adds auto width
+*/
+
+[mod-width~="auto"]{
+  width: auto;
+}
+
+/* dimension - height */
+
+/* 
+  @property: height
+  @desc: adds height of 5%
+*/
+
+[mod-height~="5p"]{
+  height: 5%;
+}
+
+/* 
+  @property: height
+  @desc: adds height of 10%
+*/
+
+[mod-height~="10p"]{
+  height: 10%;
+}
+
+/* 
+  @property: height
+  @desc: adds height of 15%
+*/
+
+[mod-height~="15p"]{
+  height: 15%;
+}
+
+
+/* 
+  @property: height
+  @desc: adds height of 20%
+*/
+
+[mod-height~="20p"]{
+  height: 20%;
+}
+
+/* 
+  @property: height
+  @desc: adds height of 25%
+*/
+
+[mod-height~="25p"]{
+  height: 25%;
+}
+
+/* 
+  @property: height
+  @desc: adds height of 30%
+*/
+
+[mod-height~="30p"]{
+  height: 30%;
+}
+
+/* 
+  @property: height
+  @desc: adds height of 35%
+*/
+
+[mod-height~="35p"]{
+  height: 35%;
+}
+
+/* 
+  @property: height
+  @desc: adds height of 40%
+*/
+
+[mod-height~="40p"]{
+  height: 40%;
+}
+
+/* 
+  @property: height
+  @desc: adds height of 45%
+*/
+
+[mod-height~="45p"]{
+  height: 45%;
+}
+
+/* 
+  @property: height
+  @desc: adds height of 50%
+*/
+
+[mod-height~="50p"]{
+  height: 50%;
+}
+
+/* 
+  @property: height
+  @desc: adds height of 55%
+*/
+
+[mod-height~="55p"]{
+  height: 55%;
+}
+
+/* 
+  @property: height
+  @desc: adds height of 60%
+*/
+
+[mod-height~="60p"]{
+  height: 60%;
+}
+
+/* 
+  @property: height
+  @desc: adds height of 65%
+*/
+
+[mod-height~="65p"]{
+  height: 65%;
+}
+
+/* 
+  @property: height
+  @desc: adds height of 70%
+*/
+
+[mod-height~="70p"]{
+  height: 70%;
+}
+
+/* 
+  @property: height
+  @desc: adds height of 75%
+*/
+
+[mod-height~="75p"]{
+  height: 75%;
+}
+
+/* 
+  @property: height
+  @desc: adds height of 80%
+*/
+
+[mod-height~="80p"]{
+  height: 80%;
+}
+
+/* 
+  @property: height
+  @desc: adds height of 85%
+*/
+
+[mod-height~="85p"]{
+  height: 85%;
+}
+
+/* 
+  @property: height
+  @desc: adds height of 90%
+*/
+
+[mod-height~="90p"]{
+  height: 90%;
+}
+
+/* 
+  @property: height
+  @desc: adds height of 95%
+*/
+
+[mod-height~="95p"]{
+  height: 95%;
+}
+
+/* 
+  @property: height
+  @desc: adds height of 100%
+*/
+
+[mod-height~="100p"]{
+  height: 100%;
+}
+
+/* 
+  @property: height
+  @desc: adds auto height
+*/
+
+[mod-height~="auto"]{
+  height: auto;
+}
