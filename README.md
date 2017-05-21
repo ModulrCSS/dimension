@@ -1,4 +1,4 @@
-# dimension
+# modulr-dimension
 
 Modulr.css Dimension Module ( width and height modifiers )
 
